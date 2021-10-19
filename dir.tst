@@ -1,1 +1,1 @@
-i am create case 
+i create a merge conflict
